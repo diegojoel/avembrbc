@@ -4,7 +4,7 @@ Sistema desktop de apoio à decisão com Raciocínio Baseado em Casos (RBC) para
 
 O ciclo recupera os casos parecidos, reutiliza a solução, deixa a revisão para uma pessoa e retém o caso novo como pendente. Não é um sistema oficial da Embrapa e não substitui o médico veterinário.
 
-O TCC da UNC que originou a ideia não apareceu nos repositórios públicos. A massa de casos foi recomposta a partir de publicações da Embrapa, em linguagem própria.
+Referente ao projeto TCC de 2010 da UNC que originou esse sistema. A massa de casos foi recomposta a partir de publicações da Embrapa, em linguagem própria.
 
 ## Como executar
 
@@ -36,4 +36,4 @@ Na primeira subida, o banco vazio recebe as áreas, os campos, o dicionário, a 
 - Embrapa. Manejo ambiental na avicultura.
 - Embrapa Suínos e Aves. Papel na evolução da avicultura (cama, forro, luz, aquecimento e telas).
 
-As áreas são Sanidade, Ambiência, Nutrição, Manejo, Incubação e Biosseguridade. As cores da tela seguem o manual de identidade da Embrapa (verde `#00783E`, azul `#29428C`). O ícone é uma ave.
+As áreas são Sanidade, Ambiência, Nutrição, Manejo, Incubação e Biosseguridade. 
